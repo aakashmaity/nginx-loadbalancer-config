@@ -1,3 +1,4 @@
+```
 ##
 # You should look at the following URL's in order to grasp a solid understanding
 # of Nginx configuration files in order to fully unleash the power of Nginx.
@@ -97,3 +98,4 @@ server {
 #		# try_files $uri $uri/ =404;
 #	}
 #}
+```
